@@ -1,11 +1,9 @@
 SVG Logos
 ====================
-#### A collection of 900+ svg vector logos.
+#### A collection of 1000+ svg vector logos.
 All the logos are optimized (removed duplicated paths / excessive grouping / empty defs, linting, etc).
 
 [View All](http://svgporn.com)
-
-[![Code Sponsor](https://app.codesponsor.io/embed/aVyak7F2JA5ZCo4usjUoY8he/gilbarbara/logos.svg)](https://app.codesponsor.io/link/aVyak7F2JA5ZCo4usjUoY8he/gilbarbara/logos)
 
 ## Contributing
 Since I optimize all the files manually I won't accept pull requests with new logos.
@@ -20,106 +18,113 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
-## <a href="https://aws.amazon.com/elasticache/" target="_blank">AWS Elastic Cache</a> *
-![aws-elastic-cache](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/aws-elastic-cache.svg)
-## <a href="https://www.braze.com/" target="_blank">Braze</a>
-![braze](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/braze.svg)
-## <a href="https://cloudinary.com/" target="_blank">Cloudinary</a>
-![cloudinary](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/cloudinary.svg)
-## <a href="https://github.com/zeit/pkg" target="_blank">PKG</a>
-![pkg](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/pkg.svg)
-## <a href="https://www.getpostman.com/" target="_blank">Postman</a>
-![postman](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/postman.svg)
-## <a href="https://pubkey.github.io/rxdb/" target="_blank">RxDB</a>
-![rxdb](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/rxdb.svg)
-## <a href="https://www.mparticle.com/" target="_blank">mParticle</a>
-![mparticle](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/mparticle.svg)
-## <a href="https://redux-saga.js.org/" target="_blank">redux-saga</a>
-![redux-saga](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/redux-saga.svg)
-## <a href="https://caffe2.ai/" target="_blank">Caffe2</a>
-![caffe2](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/caffe2.svg)
-## <a href="https://www.ebanx.com" target="_blank">EBANX</a>
-![ebanx](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/ebanx.svg)
-## <a href="https://fly.io/" target="_blank">Fly</a>
-![fly](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/fly.svg)
-## <a href="https://www.mapbox.com/" target="_blank">Mapbox</a>
-![mapbox](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/mapbox.svg)
-## <a href="https://pin.gy/" target="_blank">Pingy</a>
-![pingy](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/pingy.svg)
-## <a href="https://www.scaledrone.com/" target="_blank">Scaledrone</a>
-![scaledrone](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/scaledrone.svg)
-## <a href="http://www.webmin.com/" target="_blank">Webmin</a>
-![webmin](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/webmin.svg)
-## <a href="https://zeit.co/" target="_blank">Zeit</a>
-![zeit](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/zeit.svg)
-## <a href="http://www.apache.org/" target="_blank">Apache</a>
-![apache](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/apache.svg)
-## <a href="https://www.ibm.com/" target="_blank">IBM</a>
-![ibm](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/ibm.svg)
-## <a href="https://www.vagrantup.com/" target="_blank">Vagrant</a> *
-![vagrant](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/vagrant.svg)
-## <a href="https://aws.amazon.com/kinesis/" target="_blank">AWS Kinesis</a>
-![aws-kinesis](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/aws-kinesis.svg)
-## <a href="http://www.armory.io/" target="_blank">Armory</a>
-![armory](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/armory.svg)
-## <a href="https://www.bugsee.com/" target="_blank">Bugsee</a>
-![bugsee](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/bugsee.svg)
-## <a href="https://www.floydhub.com/" target="_blank">FloydHub</a>
-![floydhub](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/floydhub.svg)
-## <a href="https://nanonets.com/" target="_blank">Nanonets</a>
-![nanonets](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/nanonets.svg)
-## <a href="https://www.peer5.com/" target="_blank">Peer 5</a>
-![peer5](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/peer5.svg)
-## <a href="http://pumpkindb.org/" target="_blank">PumpkinDB</a>
-![pumpkindb](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/pumpkindb.svg)
-## <a href="https://whalar.com/" target="_blank">Whalar</a>
-![whalar](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/whalar.svg)
-## <a href="https://containership.io/" target="_blank">ContainerShip</a>
-![containership](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/containership.svg)
-## <a href="https://chime.aws/" target="_blank">Amazon Chime</a>
-![amazon-chime](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/amazon-chime.svg)
-## <a href="https://aws.amazon.com/connect/" target="_blank">Amazon Connect</a>
-![amazon-connect](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/amazon-connect.svg)
-## <a href="https://www.codefund.io/" target="_blank">Codefund</a>
-![codefund](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/codefund.svg)
-## <a href="https://www.contentful.com/" target="_blank">Contentful</a>
-![contentful](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/contentful.svg)
-## <a href="http://eta-lang.org/" target="_blank">Eta</a>
-![eta-lang](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/eta-lang.svg)
-## <a href="https://glimmerjs.com" target="_blank">Glimmer</a>
-![glimmerjs](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/glimmerjs.svg)
-## <a href="https://mist.io/" target="_blank">Mist.io</a>
-![mist](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/mist.svg)
-## <a href="https://www.progress.com/" target="_blank">Progess</a>
-![progress](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/progress.svg)
-## <a href="https://www.eventbrite.com/" target="_blank">Eventbrite</a>
-![eventbrite](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/eventbrite.svg)
-## <a href="https://expo.io/" target="_blank">Expo</a> *
-![expo](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/expo.svg)
-## <a href="http://message.io/" target="_blank">Message.io</a>
-![message.io](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/message.io.svg)
-## <a href="https://www.mozilla.org/" target="_blank">Mozilla</a>
-![mozilla](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/mozilla.svg)
-## <a href="https://segment.com/" target="_blank">Segment</a>
-![segment](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/segment.svg)
-## <a href="https://steemit.com/" target="_blank">Steemit</a>
-![steemit](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/steemit.svg)
-## <a href="https://trace.risingstack.com/" target="_blank">Trace</a>
-![trace](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/trace.svg)
-## <a href="https://udacity.com" target="_blank">Udacity</a>
-![udacity](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/udacity.svg)
-## <a href="http://webassembly.org/" target="_blank">WebAssembly</a>
-![webassembly](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/webassembly.svg)
-## <a href="https://pagekit.com/" target="_blank">pagekit</a>
-![pagekit](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/pagekit.svg)
-## <a href="http://blueprintjs.com/" target="_blank">Blueprint</a>
-![blueprint](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/blueprint.svg)
-## <a href="https://brave.com/" target="_blank">Brave</a>
-![brave](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/brave.svg)
-## <a href="https://hasura.io/" target="_blank">Hasura</a>
-![hasura](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/hasura.svg)
-## <a href="https://itsalive.io/" target="_blank">It&#x27;s Alive</a>
-![itsalive](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/itsalive.svg)
+## <a href="https://camel.apache.org" target="_blank">Apache Camel</a>
+![apache-camel](https://cdn.svgporn.com/logos/apache-camel.svg)
+## <a href="https://www.apple.com/ios/app-store/" target="_blank">Apple iOS App Store</a>
+![apple-app-store](https://cdn.svgporn.com/logos/apple-app-store.svg)
+## <a href="https://flutter.dev" target="_blank">Flutter</a>
+![flutter](https://cdn.svgporn.com/logos/flutter.svg)
+## <a href="https://github.com/fuchsia-mirror" target="_blank">Fuchsia</a>
+![fuchsia](https://cdn.svgporn.com/logos/fuchsia.svg)
+## <a href="https://play.google.com/" target="_blank">Google Play</a>
+![google-play](https://cdn.svgporn.com/logos/google-play-icon.svg)
+![google-play](https://cdn.svgporn.com/logos/google-play.svg)
+## <a href="https://jupyter.org" target="_blank">Jupyter</a>
+![jupyter](https://cdn.svgporn.com/logos/jupyter.svg)
+## <a href="https://developers.google.com/web/tools/puppeteer/" target="_blank">Puppeteer</a>
+![puppeteer](https://cdn.svgporn.com/logos/puppeteer.svg)
+## <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a>
+![tailwindcss](https://cdn.svgporn.com/logos/tailwindcss-icon.svg)
+![tailwindcss](https://cdn.svgporn.com/logos/tailwindcss.svg)
+## <a href="https://cloud.google.com/functions/" target="_blank">Google Cloud Functions</a>
+![google-cloud-functions](https://cdn.svgporn.com/logos/google-cloud-functions.svg)
+## <a href="https://cloud.google.com/run/" target="_blank">Google Cloud Run</a>
+![google-cloud-run](https://cdn.svgporn.com/logos/google-cloud-run.svg)
+## <a href="https://www.atlassian.com/software/bamboo" target="_blank">Bamboo</a>
+![bamboo](https://cdn.svgporn.com/logos/bamboo.svg)
+## <a href="https://codesandbox.io/" target="_blank">Code Sandbox</a>
+![codesandbox](https://cdn.svgporn.com/logos/codesandbox.svg)
+## <a href="https://dojo.io/" target="_blank">Dojo</a>
+![dojo](https://cdn.svgporn.com/logos/dojo-icon.svg)
+![dojo](https://cdn.svgporn.com/logos/dojo.svg)
+## <a href="https://www.haiku.ai/" target="_blank">Haiku</a>
+![haiku](https://cdn.svgporn.com/logos/haiku.svg)
+## <a href="https://www.prisma.io/" target="_blank">Prisma</a>
+![prisma](https://cdn.svgporn.com/logos/prisma.svg)
+## <a href="https://react-styleguidist.js.org/" target="_blank">React Styleguidist</a>
+![react-styleguidist](https://cdn.svgporn.com/logos/react-styleguidist.svg)
+## <a href="https://spreecommerce.org/" target="_blank">Spree Commerce</a>
+![spree](https://cdn.svgporn.com/logos/spree.svg)
+## <a href="https://storybook.js.org/" target="_blank">Storybook</a>
+![storybook](https://cdn.svgporn.com/logos/storybook-icon.svg)
+![storybook](https://cdn.svgporn.com/logos/storybook.svg)
+## <a href="http://facebook.github.io/jest/" target="_blank">Jest</a> *
+![jest](https://cdn.svgporn.com/logos/jest.svg)
+## <a href="http://kafka.apache.org/" target="_blank">Kafka</a> *
+![kafka](https://cdn.svgporn.com/logos/kafka-icon.svg)
+![kafka](https://cdn.svgporn.com/logos/kafka.svg)
+## <a href="https://reasonml.github.io/" target="_blank">Reason ML</a>
+![reasonml](https://cdn.svgporn.com/logos/reasonml.svg)
+![reasonml](https://cdn.svgporn.com/logos/reasonml-icon.svg)
+## <a href="https://slack.com/" target="_blank">slack</a>
+![slack](https://cdn.svgporn.com/logos/slack-icon.svg)
+![slack](https://cdn.svgporn.com/logos/slack.svg)
+## <a href="https://www.adyen.com/" target="_blank">Adyen</a>
+![adyen](https://cdn.svgporn.com/logos/adyen.svg)
+## <a href="https://element.eleme.io/" target="_blank">Element</a>
+![element](https://cdn.svgporn.com/logos/element.svg)
+## <a href="https://pay.google.com/about/" target="_blank">Google Pay</a>
+![google-pay](https://cdn.svgporn.com/logos/google-pay.svg)
+## <a href="https://julialang.org/" target="_blank">Julia</a>
+![julia](https://cdn.svgporn.com/logos/julia.svg)
+## <a href="https://nestjs.com/" target="_blank">NestJS</a>
+![nestjs](https://cdn.svgporn.com/logos/nestjs.svg)
+## <a href="https://pytorch.org/" target="_blank">PyTorch</a>
+![pytorch](https://cdn.svgporn.com/logos/pytorch.svg)
+## <a href="https://www.tensorflow.org/" target="_blank">TensorFlow</a>
+![tensorflow](https://cdn.svgporn.com/logos/tensorflow.svg)
+## <a href="https://www.x-cart.com/" target="_blank">X-Cart</a>
+![xcart](https://cdn.svgporn.com/logos/xcart.svg)
+## <a href="https://www.optimizely.com/" target="_blank">Optimizely</a>
+![optimizely](https://cdn.svgporn.com/logos/optimizely.svg)
+## <a href="https://airflow.apache.org/" target="_blank">Airflow</a>
+![airflow](https://cdn.svgporn.com/logos/airflow.svg)
+## <a href="https://www.codefactor.io/" target="_blank">CodeFactor</a>
+![codefactor](https://cdn.svgporn.com/logos/codefactor.svg)
+## <a href="https://dimerapp.com/" target="_blank">Dimer</a>
+![dimer](https://cdn.svgporn.com/logos/dimer.svg)
+## <a href="https://github.com/kubernetes/kops" target="_blank">kops</a>
+![kops](https://cdn.svgporn.com/logos/kops.svg)
+## <a href="https://www.smartling.com/" target="_blank">Smartling</a>
+![smartling](https://cdn.svgporn.com/logos/smartling.svg)
+## <a href="https://www.sourcetrail.com/" target="_blank">Sourcetrail</a>
+![sourcetrail](https://cdn.svgporn.com/logos/sourcetrail.svg)
+## <a href="https://www.stitchdata.com/" target="_blank">Stitch</a>
+![stitch](https://cdn.svgporn.com/logos/stitch.svg)
+## <a href="https://strapi.io/" target="_blank">Strapi</a>
+![strapi](https://cdn.svgporn.com/logos/strapi.svg)
+## <a href="https://www.algolia.com/" target="_blank">Algolia</a>
+![algolia](https://cdn.svgporn.com/logos/algolia.svg)
+## <a href="https://github.com/google/brotli" target="_blank">Brotli</a>
+![brotli](https://cdn.svgporn.com/logos/brotli.svg)
+## <a href="https://github.com/browserslist/browserslist" target="_blank">Browserslist</a>
+![browserslist](https://cdn.svgporn.com/logos/browserslist.svg)
+## <a href="https://www.codacy.com/" target="_blank">Codacy</a>
+![codacy](https://cdn.svgporn.com/logos/codacy.svg)
+## <a href="https://www.kaiostech.com/" target="_blank">KaiOS</a>
+![kaios](https://cdn.svgporn.com/logos/kaios.svg)
+## <a href="https://www.sonarqube.org/" target="_blank">SonarQube</a>
+![sonarqube](https://cdn.svgporn.com/logos/sonarqube.svg)
+## <a href="https://swagger.io/" target="_blank">Swagger</a>
+![swagger](https://cdn.svgporn.com/logos/swagger.svg)
+## <a href="https://telegram.org/" target="_blank">Telegram</a>
+![telegram](https://cdn.svgporn.com/logos/telegram.svg)
+## <a href="https://www.umu.com/" target="_blank">Umu</a>
+![umu](https://cdn.svgporn.com/logos/umu.svg)
+## <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a>
+![whatsapp](https://cdn.svgporn.com/logos/whatsapp.svg)
+## <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+![netlify](https://cdn.svgporn.com/logos/netlify.svg)
 
 ---
 
